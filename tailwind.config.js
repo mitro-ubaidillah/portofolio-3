@@ -11,7 +11,8 @@ export default {
       'gray-dark': '#F5F5F5',
       'orange': '#E45447',
       'font-second': '#7C7B7B',
-      'font-primary': '#0F172B'
+      'font-primary': '#0F172B',
+      'white': '#ffff'
     },
     fontFamily: {
       sans: ['Poppins', 'sans-serif'],
