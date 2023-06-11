@@ -1,0 +1,14 @@
+.bordered-underline-gray {
+    position: relative;
+    display: inline-block;
+  }
+
+  .bordered-underline-gray::after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    left: 0;
+    right: 0;
+    height: 8px;
+    background-color: #d9d9d9;
+  }
