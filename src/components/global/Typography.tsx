@@ -1,7 +1,7 @@
 
 type Text = {
     name: string,
-    color?: 'dark' | 'white' | 'active',
+    color?: 'dark' | 'white' | 'active' | 'gray',
     textCase: 'uppercase' | 'capitalize' | 'lowercase',
 }
 
