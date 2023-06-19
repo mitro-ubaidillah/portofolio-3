@@ -2,7 +2,7 @@ import Typography from "../global/Typography";
 
 const Navbar = () => {
     return (
-        <div className="flex bg-dark justify-between content-center py-8 px-36">
+        <div className="flex bg-dark justify-between content-center py-8 px-32">
             <Typography name="Mitro" fontWeight="bold" size="2xl" color="white" />
             <div className="menu grid grid-cols-4 content-center gap-7">
                 <Typography
