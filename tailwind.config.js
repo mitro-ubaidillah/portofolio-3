@@ -11,7 +11,7 @@ export default {
       'gray-dark': '#F5F5F5',
       'orange': '#E45447',
       'gray': '#7C7B7B',
-      'white': '#ffff',
+      'white': '#ffffff',
       'border-gray': '#D9D9D9',
       'active': '#676767'
     },
