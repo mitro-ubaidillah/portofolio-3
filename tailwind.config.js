@@ -10,9 +10,10 @@ export default {
       'gray-light': '#FAFAFA',
       'gray-dark': '#F5F5F5',
       'orange': '#E45447',
-      'font-second': '#7C7B7B',
-      'font-primary': '#0F172B',
-      'white': '#ffff'
+      'gray': '#7C7B7B',
+      'white': '#ffffff',
+      'border-gray': '#D9D9D9',
+      'active': '#676767'
     },
     fontFamily: {
       sans: ['Poppins', 'sans-serif'],

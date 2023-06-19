@@ -1,0 +1,25 @@
+.bordered-underline {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .bordered-underline::before {
+    content: "";
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #E45447;
+  }
+  
+  .bordered-underline::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 10px;
+    right: 0;
+    height: 3px;
+    background-color: #E45447;
+  }
